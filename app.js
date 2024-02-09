@@ -64,6 +64,22 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
+git clone https://github.com/rodrigoalura87/numero-secreto.git
+//Código omitido
+
+<p class="texto__paragrafo">Escolha um número entre 1 a 100</p>
+
+//Código omitido
+let numeroSecreto = parseInt(Math.random() * 11)
+let tentativas = 1
+let chute
+
+//código omitido
+git status
+git add .
+git status
+git commit -m "alterando limite para 100"
+git log
 
 
 
